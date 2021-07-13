@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["globalmaptile"] = [{"text":"impl Freeze for <a class=\"struct\" href=\"globalmaptile/struct.GlobalMercator.html\" title=\"struct globalmaptile::GlobalMercator\">GlobalMercator</a>","synthetic":true,"types":["globalmaptile::GlobalMercator"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
